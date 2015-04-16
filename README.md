@@ -61,3 +61,7 @@ The volunteer will share ideas, generate text, make drawings, or work through ex
 
 All individuals that did not volunteer yield some sensible control of the meeting to this individual to allow them the time and space as they share their ideas.
 
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Dojo</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://chef.io" property="cc:attributionName" rel="cc:attributionURL">Chef Software, Inc.</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. <a href="attribution.html">A full list of incorporated sources is included.</a>
