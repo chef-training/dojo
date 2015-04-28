@@ -21,39 +21,76 @@ The topics format discusses rules and tips during a topic session.
 
 ### Overview
 
-#### (5 min) Opening Remarks 
+#### (5 min) Opening Remarks
 
 This is generally the first five minutes of the meeting to allow everyone to get situated, turn on their microphones and connect to various services. It's also a good time for small talk.
 
-#### (10 min) Topics Collection
+The host welcomes everyone to the dojo and then introduces the format. The host explains the role of Topics Master and selects a Topics Master. The host explains the role of the Topics Speaker (the speakers are chosen after the topics are decided).
 
-Lean coffee style each individual throws out any idea they feel is related to the topic.
+#### (5 min) Topics Collection
 
-The group decides the primary topic, secondary topic, and final topic.
+The host instructs the attendees on how to provide a topic.
 
-* The primary topic is the one the group values the most to talk about. 
+All individuals provide a topic that they would like to discuss, present, or learn to a common area visible to all attendees.
+
+#### (2 min) Topic Voting
+
+All individuals apply two votes to the list of topics.
+
+Any individual may ask for further clarification on a posted topic.
+
+#### (1 min) Topic Selection
+
+The Topics Master selects the final topic disregarding the vote count. The Topics Master will then tally the votes and selects the highest rated topics as the primary topic and secondary topic. In the event of a tie, the Topics Master selects the winner
+
+* The primary topic is the one the group values the most to talk about.
 
 * The secondary topic is the one the group values the second most to talk about.
 
 * The final topic is the topic that must be talked about.
 
-> The final topic could be the most important topic because it is the one at the end of the practic time. This allows for it to take as long as it need.
+> The final topic could be the most important topic because it is the one at the end of the practice time. This allows for it to take as long as it need.
 >
 > This could also be that one topic that keeps appearing within the topics list and continues to be overlooked.
 
-## (15 min) - Primary Topic
+#### (2 min) Topic Speakers are Selected
 
 An individual will agree to talk about the primary topic.
 
-## (15 min) - Secondary Topic
-
 An individual will agree to talk about the secondary topic.
-
-## (15 min) - Final Topic
 
 An individual will agree to talk about the final topic.
 
-### Topics
+## (15 min) - Primary Topic
+
+## (15 min) - Secondary Topic
+
+## (15 min) - Final Topic
+
+## (1 min) - Summary
+
+The host instructs the attendees how they can provide feedback on the session. The host thanks the attendees, the Topics Master, the Topics Speakers.
+
+The attendees may then continue conversation about the Final Topic.
+
+
+### Roles
+
+This section defines each of the roles responsible for facilitating the dojo.
+
+#### Host
+
+Welcome each individual to the meeting. As they enter the meeting greet each one by name.
+
+> This ensures that the attendee knows they are present and makes it known to those already in attendance that this individual is present.
+
+The host will need to select a method to collect the topics. The host will need to select a method to collect feedback after the session.
+
+#### Topics Master
+
+The role of the topics master is paramount as they are the ones in charge of selecting the topics for the session. The Primary and Secondary topics are determined by votes cast
+
+#### Topic Speaker
 
 An individual will volunteer to speak about a topic.
 
